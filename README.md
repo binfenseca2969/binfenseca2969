@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @binfenseca2969
 - 👀 I’m interested in Point Cloud.
+- 📕 I'm now studying for master's degree in CAMS & PUMC.
 - 🌱 I’m currently learning Deep Learning in Point Cloud Registration.
 <!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 pengfei.li_bme@outlook.com
